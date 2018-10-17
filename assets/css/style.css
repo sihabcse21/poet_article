@@ -1,0 +1,50 @@
+.mysearchbox{
+padding-top: 10px;
+color: #fff;
+font-size:17px;
+}
+
+.myform{
+background:#f1f1f1;
+padding:20px;
+border:solid 1px #ccc;
+border-radius:5px;
+
+}
+
+.mylogotitle{
+color:#fff  !important;
+}
+
+.myfooter
+{
+background:#000;
+color:#fff;
+padding:10px;
+margin-top:20px;
+}
+.container
+{
+
+margin-top:30px;
+}
+
+.navbar-inverse {
+    background-color: #337ab7;
+   color:#fff;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+}
+
+.btn-default {
+    color: #fff;
+    background-color: #0c0c0c;
+    border-color: #4e4444;
+}
+
+.table
+{
+background:#f9f9f9;
+}
